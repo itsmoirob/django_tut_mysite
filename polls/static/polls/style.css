@@ -1,3 +1,7 @@
+body {
+  background: whitesmoke url("images/background.jpeg") repeat;
+}
+
 li a {
   color: green;
 }
